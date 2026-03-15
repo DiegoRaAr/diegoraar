@@ -1,4 +1,4 @@
-## Diego Ramos
+# Hi, I'm Diego Ramos
 
 ## 🛠 Skills
 
