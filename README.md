@@ -22,10 +22,11 @@
 
 ## 🗠 Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegoRaAr&theme=codestackr&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegoRaAr&theme=one-dark-pro&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoraar&layout=compact&theme=tokyonight&card_width=495)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoraar&show_icons=true&theme=tokyonight&card_width=495)
 
 
 
